@@ -1,7 +1,7 @@
 # Mouse Catching Game
 This is a simple game made using java in which a player must stop a mouse from escaping by trapping it in the playing field.
 
-#### How to play
+### How to play
 The player initally chooses the size of the board either 4 or 20 squares wide and begins the game
 
 Each turn the player will be allowed to place a new snake block next to an existing snake on the board.
